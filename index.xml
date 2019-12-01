@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sava Gerov</title>
@@ -6,19 +6,10 @@
     <description>Recent content on Sava Gerov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Dec 2019 19:10:49 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 17 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://savagerov.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Code context</title>
-      <link>https://savagerov.com/posts/code-context/</link>
-      <pubDate>Sun, 01 Dec 2019 19:10:49 +0100</pubDate>
-      
-      <guid>https://savagerov.com/posts/code-context/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Should I develop for blockchain? </title>
@@ -62,7 +53,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://savagerov.com/piano/</guid>
-      <description>Piano recordings        April 2017 - The prelude became one of Rachmaninoff&amp;rsquo;s most famous compositions. It was so popular that it was referred to as &amp;ldquo;The Prelude&amp;rdquo; and audiences would demand it as an encore at his performances, shouting &amp;ldquo;C-sharp!&amp;rdquo; Unfortunately, because of this, Rachmaninoff grew very tired of it and once said, &amp;ldquo;Many, many times I wish I had never written it.</description>
+      <description>Piano recordings        April 2017 - The prelude became one of Rachmaninoff&#39;s most famous compositions. It was so popular that it was referred to as &amp;ldquo;The Prelude&amp;rdquo; and audiences would demand it as an encore at his performances, shouting &amp;ldquo;C-sharp!&amp;rdquo; Unfortunately, because of this, Rachmaninoff grew very tired of it and once said, &amp;ldquo;Many, many times I wish I had never written it.</description>
     </item>
     
   </channel>

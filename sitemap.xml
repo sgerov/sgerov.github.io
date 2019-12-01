@@ -1,14 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://savagerov.com/posts/code-context/</loc>
-    <lastmod>2019-12-01T19:10:49+01:00</lastmod>
+    <loc>https://savagerov.com/tags/blockchain/</loc>
+    <lastmod>2018-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://savagerov.com/posts/</loc>
+    <lastmod>2018-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://savagerov.com/</loc>
+    <lastmod>2018-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://savagerov.com/posts/should-i-develop-for-blockchain/</loc>
+    <lastmod>2018-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://savagerov.com/tags/</loc>
     <lastmod>2018-05-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,36 +43,11 @@
   </url>
   
   <url>
-    <loc>https://savagerov.com/tags/blockchain/</loc>
-    <lastmod>2018-05-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://savagerov.com/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://savagerov.com/piano/</loc>
-  </url>
-  
-  <url>
-    <loc>https://savagerov.com/posts/</loc>
-    <lastmod>2019-12-01T19:10:49+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://savagerov.com/</loc>
-    <lastmod>2019-12-01T19:10:49+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://savagerov.com/tags/</loc>
-    <lastmod>2018-05-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>
