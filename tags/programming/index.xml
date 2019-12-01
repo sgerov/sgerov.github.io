@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on Sava Gerov</title>
+    <link>https://savagerov.com/tags/programming/</link>
+    <description>Recent content in Programming on Sava Gerov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Dec 2019 19:10:49 +0100</lastBuildDate>
+    
+	<atom:link href="https://savagerov.com/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Code context</title>
+      <link>https://savagerov.com/posts/code-context/</link>
+      <pubDate>Sun, 01 Dec 2019 19:10:49 +0100</pubDate>
+      
+      <guid>https://savagerov.com/posts/code-context/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

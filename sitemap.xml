@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://savagerov.com/posts/code-context/</loc>
+    <lastmod>2019-12-01T19:10:49+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://savagerov.com/posts/should-i-develop-for-blockchain/</loc>
     <lastmod>2018-05-17T00:00:00+00:00</lastmod>
   </url>
@@ -39,13 +44,19 @@
   
   <url>
     <loc>https://savagerov.com/posts/</loc>
-    <lastmod>2018-05-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-01T19:10:49+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://savagerov.com/tags/programming/</loc>
+    <lastmod>2019-12-01T19:10:49+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://savagerov.com/</loc>
-    <lastmod>2018-05-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-01T19:10:49+01:00</lastmod>
     <priority>0</priority>
   </url>
   
